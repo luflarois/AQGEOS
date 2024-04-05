@@ -1,0 +1,11 @@
+  $MODEL
+   PREFIX    = '/share/bramsrd/dist/BRAMS/data/GEOS/20200513/GEOS.',
+   OUTFOLDER = '/share/bramsrd/dist/BRAMS/data/GRADS/20200513/',
+   IMONTH1   = 05,      ! Month
+   IDATE1    = 13,      ! Day
+   IYEAR1    = 2020,    ! Year
+   ITIME1    = 0000,    ! GMT of initial
+   NTIMES    = 81,       ! Number os outputs
+   TINCREM   = 3,       !output increment in hours NCEP=6, NASA=3
+   SOURCE    = 'NASA' ! 'NCEP','NASA'
+  $END

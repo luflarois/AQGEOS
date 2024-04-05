@@ -1,0 +1,11 @@
+  $MODEL
+   PREFIX    = '/home/lufla/data/GEOS.',
+   OUTFOLDER = '/home/lufla/data/',
+   IMONTH1   = 04,      ! Month
+   IDATE1    = 29,      ! Day
+   IYEAR1    = 2020,    ! Year
+   ITIME1    = 0000,    ! GMT of initial
+   NTIMES    = 9,       ! Number os outputs
+   TINCREM   = 3,       !output increment in hours NCEP=6, NASA=3
+   SOURCE    = 'NASA' ! 'NCEP','NASA'
+  $END

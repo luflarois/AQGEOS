@@ -1,0 +1,11 @@
+$MODEL
+PREFIX    = '/share/bramsrd/dist/BRAMS/data/GEOS/20200514/GEOS.',
+OUTFOLDER = '/share/bramsrd/dist/BRAMS/data/GRADS/20200514/',
+IMONTH1   = 05,
+IDATE1    = 14,
+IYEAR1    = 2020,
+ITIME1    = 0000,
+NTIMES    = 81,
+TINCREM   = 3,
+SOURCE    = 'NASA',
+$END
